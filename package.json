@@ -1,0 +1,19 @@
+{
+  "name": "circlecitest",
+  "version": "1.0.0",
+  "description": "circlecitest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpvajda/circleci-test.git"
+  },
+  "author": "John P Vajda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpvajda/circleci-test/issues"
+  },
+  "homepage": "https://github.com/jpvajda/circleci-test#readme"
+}
